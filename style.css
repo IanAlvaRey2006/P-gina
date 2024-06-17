@@ -1,0 +1,32 @@
+body{
+    padding: 15px 15px 0px 15px;
+    margin-bottom: 100px;
+}
+
+.header{
+    height: 80px;
+    box-shadow: 2px 2px 3px 3px rgba(128, 128, 128, 0.61);
+    background-color: rgb(25, 234, 171);
+    margin-bottom: 30px;
+}
+
+.contRegistro{
+    padding-top: 50px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+a{
+    text-decoration: none;
+}
+
+footer{
+    position: fixed;
+    top: 90vh;
+    left:0;
+    width: 250vh;
+}
+
+footer{
+    box-shadow: 2px -2px 3px 3px rgba(128, 128, 128, 0.549);
+    background-color: rgb(25, 234, 171);
+}
